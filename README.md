@@ -5,3 +5,9 @@ Based on [hello-world-anaconda-addon](https://github.com/rhinstaller/hello-world
 
 
 # Usage:
+
+sudo make
+
+# Output:
+
+new-squashfs.img
